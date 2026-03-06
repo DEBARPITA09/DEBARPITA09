@@ -13,10 +13,13 @@
 - C++
 - JavaScript
 
+
 ### 🌐 Web Development
 - HTML
 - CSS
 - Vanilla JavaScript
+- React.js
+- Tailwind CSS
 
 ### ⚙️ Tools & Platforms
 - Git
